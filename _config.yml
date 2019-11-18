@@ -6,7 +6,7 @@ logo: /assets/images/logo.png
 favicon: /assets/images/favicon.ico
 paginate: 6
 url: "https://wnstlr4580.github.io"
-baseurl: "/lawmaker-network"
+baseurl:
 email: 'hello@john.doe'
 google_analytics:
 disqus:
