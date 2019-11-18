@@ -21,7 +21,7 @@ authors:
     email: hello@john.doe
     web: example.com
     twitter:
-    description: Hi, I am John Doe.
+    description: Hi, I am JunSik KIM.
 
 # Plugins
 plugins:
@@ -45,16 +45,16 @@ highlighter: rouge
 
 # SEO
 twitter:
-  username: john
-  card: summary
+  username:
+  card: 
 
 facebook:
   app_id:
-  publisher: john.com
+  publisher: 
   admins:
 
 social:
-name: John Doe
+name: 
 links:
     - https://twitter.com/
     - https://www.facebook.com/
